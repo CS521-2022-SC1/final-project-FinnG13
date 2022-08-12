@@ -1,5 +1,0 @@
-There are a lot of explanations for those graphs, such as the scatter plots of ov's numerical features and house prices. We can say that the larger their values, the higher the house prices!
-
-For category data and house price box plots, we can say that, for example, the larger the value of PConc in the foundation, the higher the house price, and there are other types of data, we can choose a few more to explain!
-
-In the modeling part, we are comparing their predictive ability of the two models. Random forest regression has better predictive ability because it is based on a decision tree model. By building multiple regression trees, take the average! Linear regression is difficult to deal with such more complex data
